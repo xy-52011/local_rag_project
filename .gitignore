@@ -1,0 +1,6 @@
+self-project/
+__pycache__/
+*.pyc
+vector_db/
+data/
+.env
